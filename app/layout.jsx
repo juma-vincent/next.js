@@ -16,7 +16,7 @@ const RootLayout = ({children}) =>{
                 </div>
 
                 <main className='app'>
-                    {children}
+                    {children} Hi World
                 </main>
 
             </body>
